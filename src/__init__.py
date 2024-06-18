@@ -23,6 +23,7 @@ from src.continuous_subarray_sum import continuous_subarray_sum
 from src.coin_change_ii import coin_change_ii
 from src.subarray_sums_divisible_by_k import subarray_sums_divisible_by_k
 from src.maximum_compatibility_score_sum import maximum_compatibility_score_sum
+from src.most_profit_assigning_work import max_profit_assignment
 
 __all__ = [
     "special_array_with_x_elements_greater_than_or_equal_x",
@@ -40,4 +41,5 @@ __all__ = [
     "coin_change_ii",
     "subarray_sums_divisible_by_k",
     "maximum_compatibility_score_sum",
+    "max_profit_assignment",
 ]

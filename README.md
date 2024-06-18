@@ -26,3 +26,4 @@ Practice leetcode with Python
 | Coin Change II | [Link](https://leetcode.com/problems/coin-change-ii) | [link](./src/coin_change_ii.py) |
 | Subarray Sums Divisible By K | [Link](https://leetcode.com/problems/subarray-sums-divisible-by-k) | [Link](./src/subarray_sums_divisible_by_k.py) |
 | Maximum Compatibility Score Sum | [Link](https://leetcode.com/problems/maximum-compatibility-score-sum) | [Link](./src/maximum_compatibility_score_sum.py) |
+| Most Profit Assigning Work | [Link](https://leetcode.com/problems/most-profit-assigning-work) | [Link](./src/most_profit_assigning_work.py) |
