@@ -24,6 +24,10 @@ from src.coin_change_ii import coin_change_ii
 from src.subarray_sums_divisible_by_k import subarray_sums_divisible_by_k
 from src.maximum_compatibility_score_sum import maximum_compatibility_score_sum
 from src.most_profit_assigning_work import max_profit_assignment
+from src.minimum_number_of_days_to_make_m_bouquets import (
+    minimum_number_of_days_to_make_m_bouquets,
+)
+from src.magnetic_force_between_two_balls import magnetic_force_between_two_balls
 
 __all__ = [
     "special_array_with_x_elements_greater_than_or_equal_x",
@@ -42,4 +46,6 @@ __all__ = [
     "subarray_sums_divisible_by_k",
     "maximum_compatibility_score_sum",
     "max_profit_assignment",
+    "minimum_number_of_days_to_make_m_bouquets",
+    "magnetic_force_between_two_balls",
 ]
